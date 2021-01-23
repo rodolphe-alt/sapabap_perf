@@ -1,1 +1,2 @@
 -- 2383809 - How to configure /SDF/MON for performance monitoring and analysis
+-- Execute transaction /N/SDF/MON in any client and click Schedule New Monitoring
