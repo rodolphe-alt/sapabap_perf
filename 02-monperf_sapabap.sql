@@ -1,2 +1,7 @@
+-- your SAP NW release < Netweaver 7.4
 -- 2383809 - How to configure /SDF/MON for performance monitoring and analysis
 -- Execute transaction /N/SDF/MON in any client and click Schedule New Monitoring
+--
+-- your SAP NW release > Netweaver 7.4
+-- 2651881 - How to configure SMON for performance monitoring and analysis
+-- To schedule SMON, open transaction /n/SDF/SMON in any client (data is collected per instance/system).
