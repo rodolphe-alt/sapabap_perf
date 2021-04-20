@@ -1,1 +1,2 @@
--- ask the EWA report
+-- ask the EWA report , check the performance KPI
+-- check the global performance from ST03N
